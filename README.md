@@ -22,3 +22,6 @@ Cara Installasi
   -Klik "Create API Key"
   -Nama bebas
   -Copy API key nya dan masukan ke file .env
+
+4. Jalankan
+   dengan mengetik "node server.js" di terminal.
